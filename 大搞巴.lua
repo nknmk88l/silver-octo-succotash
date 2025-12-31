@@ -34,7 +34,7 @@ local Window = WindUI:CreateWindow({
         
         -- ↓ Optional. You can remove it.
         Thumbnail = {
-            Image = "rbxassetid://82383133704483",
+            Image = "rbxassetid://88664681325135",
             Title = "",
         },
         
